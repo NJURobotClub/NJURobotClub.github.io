@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: It's Nice To Meet You
-    text: NJU Robot Club !
+    title: 欢 迎 来 到
+    text: 南京大学机器人协会 !
     button: Tell Me More
     buttonlink: "#services"
 
