@@ -17,45 +17,45 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "社团概况"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "管理部门"
+        desc: "负责社团的教学计划安排，同时掌管分配社团资金，同时负责各项比赛的开拓，安排和通知"
+        icon: fas fa-users #find more at https://fontawesome.com/icons
+      - title: "教学部门"
+        desc: "负责arduino基本内容的教学，高年级根据分组进行更高层次教学，兼任创新成果孵化，组织比赛参与"
+        icon: fas fa-atom-simple
+      - title: "宣传部门"
+        desc: "承担招新宣传任务，负责教学活动以及比赛现场记录，同时对社团所获奖项，社员所获荣誉进行年度统计宣传"
+        icon: fab fa-megaphone
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "社团活动"
+    text: "机器人社团丰富多彩的教学活动"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close "
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "发展历程"
+    text: "南京大学机器人社团的重要节点"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "社团正式建立"
+        year: "2017-12-11"
+        desc: "2017年12月8日晚，机器人协会在仙二104教室召开成立大会。全体管理层成员及部分社员参与此次大会。出席大会的嘉宾有工程管理学院自动化系主任陈春林老师，实验教学中心辛博老师 "
+        image: assets/img/timeline/创立.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "进一步开拓比赛"
+        year: "2022"
+        desc: "2019级董浩宇参加全国计算机设计大赛获一等奖后，新任指导老师辛博提出进一步开拓更多的机器人比赛，不再局限于教育机器人大赛 "
+        image: assets/img/timeline/中国计算机设计大赛.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
+      - title: "社团内部改造？"
+        year: "2022"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
@@ -69,7 +69,7 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
+    title: "获奖荣誉"
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
@@ -93,8 +93,8 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "社团成员"
+    text: "社团成员"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
@@ -130,8 +130,8 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "联系我们"
+    text: "Email：2604317843xwj@gmail"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
