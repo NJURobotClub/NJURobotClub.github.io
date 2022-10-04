@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: It's Nice To Meet You
-    text: Welcome to NJU Robot Club !
+    text: NJU Robot Club !
     button: Tell Me More
     buttonlink: "#services"
 
