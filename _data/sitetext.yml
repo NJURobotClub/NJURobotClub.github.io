@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-layer-group
       - title: "宣传部门"
         desc: "承担招新宣传任务，负责教学活动以及比赛现场记录，同时对社团所获奖项，社员所获荣誉进行年度统计宣传"
-        icon: fab fa-camera-retro
+        icon: fab fa-sparkles
 
   portfolio:
     title: "社团活动"
