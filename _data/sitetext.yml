@@ -26,10 +26,10 @@ en: &DEFAULT_EN
         icon: fas fa-users #find more at https://fontawesome.com/icons
       - title: "教学部门"
         desc: "负责arduino基本内容的教学，高年级根据分组进行更高层次教学，兼任创新成果孵化，组织比赛参与"
-        icon: fas fa-atom-simple
+        icon: fas fa-layer-group
       - title: "宣传部门"
         desc: "承担招新宣传任务，负责教学活动以及比赛现场记录，同时对社团所获奖项，社员所获荣誉进行年度统计宣传"
-        icon: fab fa-megaphone
+        icon: fab fa-camera-retro
 
   portfolio:
     title: "社团活动"
