@@ -92,10 +92,11 @@ en: &DEFAULT_EN
   about:
     title: "获奖荣誉"
     text: "中国教育机器人大赛"
+    image: ![avatar](assets/img/award/2018.2.png)
     section: about
     body: 
       -image: ![avatar](/NJURobotClub.github.io/assets/img/award/2018.1.png)
-    ![avatar](assets/img/award/2018.2.png)
+   
     ![avatar](assets/img/award/2018.3.png)
     ![avatar](assets/img/award/2018.4.png)
     ![avatar](assets/img/award/2020.1.png)
