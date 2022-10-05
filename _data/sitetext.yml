@@ -91,7 +91,23 @@ en: &DEFAULT_EN
 
   about:
     title: "获奖荣誉"
-    
+    list:
+      - image: assets/img/award/2018.1.png
+        alt:
+      - image: assets/img/award/2018.2.png
+        alt:
+      - image: assets/img/award/2018.3.png
+        alt:
+      - image: assets/img/award/2018.4.png
+        alt:
+      - image: assets/img/award/2020.1.png
+        alt:
+      - image: assets/img/award/2020.2.png
+        alt:
+      - image: assets/img/award/2021.1.png
+        alt:
+      - image: assets/img/award/2021.2.png
+        alt:
     section: about
 
   clients:
