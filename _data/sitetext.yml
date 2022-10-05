@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-layer-group
       - title: "宣传部门"
         desc: "承担招新宣传任务，负责教学活动以及比赛现场记录，同时对社团所获奖项，社员所获荣誉进行年度统计宣传"
-        icon: fab fa-sparkles
+        icon: fab fa-camera-movie
 
   portfolio:
     title: "社团活动"
@@ -46,14 +46,35 @@ en: &DEFAULT_EN
     events:
       - title: "社团正式建立"
         year: "2017-12-11"
-        desc: "2017年12月8日晚，机器人协会在仙二104教室召开成立大会。全体管理层成员及部分社员参与此次大会。出席大会的嘉宾有工程管理学院自动化系主任陈春林老师，实验教学中心辛博老师 "
+        desc: "2017年12月8日晚，机器人协会在仙二104教室召开成立大会。全体管理层成员及部分社员参与此次大会。首届会长周启新发表总结和规划。出席的嘉宾有工程管理学院自动化系主任陈春林老师，实验教学中心辛博老师 "
         image: assets/img/timeline/创立.jpg
         alt:
-      - title: "进一步开拓比赛"
-        year: "2022"
-        desc: "2019级董浩宇参加全国计算机设计大赛获一等奖后，新任指导老师辛博提出进一步开拓更多的机器人比赛，不再局限于教育机器人大赛 "
+      - title: "第二届管理部门"
+        year: "2018"
+        desc: "赵肖鹏 杨宇琼 刘金梅 覃友 刘洋 王铖鹤 陈扬 李如宇"
         image: assets/img/timeline/中国计算机设计大赛.jpg
         alt:
+      - title: "第三届管理部门"
+        year: "2019"
+        desc: "王铖鹤 陈扬 李如宇 李逸尘"
+        image: assets/img/timeline/中国计算机设计大赛.jpg
+        alt:
+      - title: "第四届管理部门"
+        year: "2020"
+        desc: "孙文强 姜玉骅 黄廷基 党子宸 李云帆 李逸尘 魏世桓 王铖鹤 陈扬 李如宇 余一凡"
+        image: assets/img/timeline/中国计算机设计大赛.jpg
+        alt:
+      - title: "第五届管理部门"
+        year: "2021"
+        desc: "郑凯月 邱文杰 尚也 曹永恒 石亚松"
+        image: assets/img/timeline/中国计算机设计大赛.jpg
+        alt:
+      - title: "第六届管理部门"
+        year: "2022"
+        desc: "周哲昊 徐文江 李刚 洪东海"
+        image: assets/img/timeline/中国计算机设计大赛.jpg
+        alt:
+     
       - title: "社团内部改造？"
         year: "2022"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
@@ -95,12 +116,12 @@ en: &DEFAULT_EN
   team:
     title: "社团成员"
     text: "社团成员"
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: 社团核心成员以及曾为社团获得荣誉的荣誉成员
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "周哲昊"
+        role: "现任社长"
+        image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -108,8 +129,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "徐文江"
+        role: "团支书"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -118,9 +139,19 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "李刚"
+        role: "宣传委员"
+        image: assets/img/team/3.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "洪东海"
+        role: "组织委员"
+        image: assets/img/team/4.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
