@@ -92,9 +92,8 @@ en: &DEFAULT_EN
   about:
     title: "获奖荣誉"
     text: "中国教育机器人大赛"
-    image: assets/img/award/2018.1.png
     section: about
-    list:
+    body:
       - image: assets/img/award/2018.1.png
         alt:
       - image: assets/img/award/2018.2.png
