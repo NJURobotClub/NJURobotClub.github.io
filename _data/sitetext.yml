@@ -91,6 +91,8 @@ en: &DEFAULT_EN
 
   about:
     title: "获奖荣誉"
+    text: "中国教育机器人比赛"
+    section: about
     list:
       - image: assets/img/award/2018.1.png
         alt:
@@ -108,7 +110,7 @@ en: &DEFAULT_EN
         alt:
       - image: assets/img/award/2021.2.png
         alt:
-    section: about
+    
 
   clients:
     section: clients
