@@ -91,7 +91,7 @@ en: &DEFAULT_EN
 
   award:
     title: "获奖荣誉"
-    text: "中国教育机器人大赛"
+    text: "中国教育机器人大赛666"
     section: award
     body:
       - text: "nb"
