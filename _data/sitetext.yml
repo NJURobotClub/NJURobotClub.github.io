@@ -91,11 +91,10 @@ en: &DEFAULT_EN
 
   award:
     title: "获奖荣誉"
-    text: "中国教育机器人大赛666"
+    text: "中国教育机器人大赛"
     section: award
     body:
-      - text: "nb"
-        image: assets/img/award/2018.1.png
+      - image: assets/img/award/2018.1.png
       - image: assets/img/award/2018.2.png
       - image: assets/img/award/2018.3.png
       - image: assets/img/award/2018.4.png
@@ -268,11 +267,19 @@ es: &DEFAULT_ES
         align: right
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
-  about:
-    title: "Sobre nosotros"
-    text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: nosotros
+  award:
+    title: "award"
+    text: "award"
+    section: award
+    body:
+      - image: assets/img/award/2018.1.png
+      - image: assets/img/award/2018.2.png
+      - image: assets/img/award/2018.3.png
+      - image: assets/img/award/2018.4.png
+      - image: assets/img/award/2020.1.png
+      - image: assets/img/award/2020.2.png
+      - image: assets/img/award/2021.1.png
+      - image: assets/img/award/2021.2.png
 
   clients:
     section: clientes
