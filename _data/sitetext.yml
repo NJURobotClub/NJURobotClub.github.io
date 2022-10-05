@@ -92,8 +92,8 @@ en: &DEFAULT_EN
   about:
     title: "获奖荣誉"
     text: "中国教育机器人大赛"
-    body: "![2018第八届中国教育机器人大赛机器人灭火和救援项目比赛中荣获特等奖](assets/img/award/1.png)    
-![2018第八届中国教育机器人大赛机器人创意设计与制作比赛中荣获特等奖](assets/img/award/2.png)"
+    body: "[2018第八届中国教育机器人大赛机器人灭火和救援项目比赛中荣获特等奖](https://github.com/NJURobotClub/NJURobotClub.github.io/blob/master/assets/img/award/2018.1.png)    
+[2018第八届中国教育机器人大赛机器人创意设计与制作比赛中荣获特等奖](https://github.com/NJURobotClub/NJURobotClub.github.io/blob/master/assets/img/award/2018.2.png)"
     section: about
    
     
