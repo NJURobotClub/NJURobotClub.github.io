@@ -94,7 +94,8 @@ en: &DEFAULT_EN
     text: "中国教育机器人大赛"
     section: about
     list:
-      - image: assets/img/award/2018.1.png
+      - text: "123"
+        image: assets/img/award/2018.1.png
       - image: assets/img/award/2018.2.png
       - image: assets/img/award/2018.3.png
       - image: assets/img/award/2018.4.png
