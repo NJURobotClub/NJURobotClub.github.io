@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "社团概况"
-    text: "Lorem ipsum"
+    text: "管理层三部门各司其职"
     section: services
     list:
       - title: "管理部门"
@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-layer-group
       - title: "宣传部门"
         desc: "承担招新宣传任务，负责教学活动以及比赛现场记录，同时对社团所获奖项，社员所获荣誉进行年度统计宣传"
-        icon: fas fa-sparkles
+        icon: fas fa-sparkles       
 
   portfolio:
     title: "社团活动"
@@ -80,18 +80,14 @@ en: &DEFAULT_EN
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
+     
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "获奖荣誉"
-    text: "中国教育机器人大赛"
+    text: "历届社团成员获奖情况"
     body: "[2018第八届中国教育机器人大赛机器人灭火和救援项目比赛中荣获特等奖](https://github.com/NJURobotClub/NJURobotClub.github.io/blob/master/assets/img/award/2018.1.png)<br>   
            [2018第八届中国教育机器人大赛机器人创意设计与制作比赛中荣获特等奖](https://github.com/NJURobotClub/NJURobotClub.github.io/blob/master/assets/img/award/2018.2.png)"
     section: about
@@ -119,8 +115,8 @@ en: &DEFAULT_EN
 
   team:
     title: "社团成员"
-    text: "社团成员"
-    subtext: 社团核心成员以及曾为社团获得荣誉的荣誉成员
+    text: "社团核心成员以及曾为社团做出卓越贡献的荣誉成员"
+    subtext: 期待你的加入！
     section: team
     people:
       - name: "周哲昊"
