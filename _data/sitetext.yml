@@ -89,11 +89,12 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
+  award:
     title: "获奖荣誉"
     text: "中国教育机器人大赛"
-    section: about
+    section: award
     body:
+      image: assets/img/award/2018.1.png
       - image: assets/img/award/2018.1.png
         alt:
       - image: assets/img/award/2018.2.png
