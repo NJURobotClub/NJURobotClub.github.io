@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-layer-group
       - title: "宣传部门"
         desc: "承担招新宣传任务，负责教学活动以及比赛现场记录，同时对社团所获奖项，社员所获荣誉进行年度统计宣传"
-        icon: fas fa-sparkles       
+        icon: fas fa-sparkles
 
   portfolio:
     title: "社团活动"
@@ -72,14 +72,14 @@ en: &DEFAULT_EN
       - title: "第六届管理部门"
         year: "2022"
         desc: "周哲昊 徐文江 李刚 洪东海"
-        image: assets/img/timeline/中国计算机设计大赛.jpg
+        image: assets/img/timeline/机器人.jpg
         alt:
      
-      - title: "社团内部改造？"
+      - title: "社团内部改造"
         year: "2022"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
+        desc: "社团分工明确到部门，作为核心的教学部门建立学习小组分支，突破社员研学的上限。同时开拓多个比赛，由社团和指导老师提供支持。"
+        image: assets/img/timeline/机器人.png
+        alt: 
      
         # you can enforce the alignment
         align: right
@@ -89,7 +89,15 @@ en: &DEFAULT_EN
     title: "获奖荣誉"
     text: "历届社团成员获奖情况"
     body: "[2018第八届中国教育机器人大赛机器人灭火和救援项目比赛中荣获特等奖](https://github.com/NJURobotClub/NJURobotClub.github.io/blob/master/assets/img/award/2018.1.png)<br>   
-           [2018第八届中国教育机器人大赛机器人创意设计与制作比赛中荣获特等奖](https://github.com/NJURobotClub/NJURobotClub.github.io/blob/master/assets/img/award/2018.2.png)"
+           [2018第八届中国教育机器人大赛机器人创意设计与制作比赛中荣获特等奖](https://github.com/NJURobotClub/NJURobotClub.github.io/blob/master/assets/img/award/2018.2.png)<br>
+           [2018第八届中国教育机器人大赛机器人群机器人舞蹈或协作比赛中荣获一等奖](https://github.com/NJURobotClub/NJURobotClub.github.io/blob/master/assets/img/award/2018.3.png)<br>
+           [2018TECHFEST UK MICROMOUSE 2nd](https://github.com/NJURobotClub/NJURobotClub.github.io/blob/master/assets/img/award/2018.4.png)<br>
+           [2020第十届中国教育机器人大赛机器人群机器人舞蹈或协作比赛中荣获一等奖](https://github.com/NJURobotClub/NJURobotClub.github.io/blob/master/assets/img/award/2020.1.png)<br>
+           [2020第十届中国教育机器人大赛机器人群机器人舞蹈或协作比赛中荣获特等奖](https://github.com/NJURobotClub/NJURobotClub.github.io/blob/master/assets/img/award/2020.2.png)<br>
+           [2021第十一届中国教育机器人大赛机器人群机器人舞蹈或协作比赛中荣获一等奖](https://github.com/NJURobotClub/NJURobotClub.github.io/blob/master/assets/img/award/2021.1.png)<br>
+           [2021第十一届中国教育机器人大赛机器人群机器人舞蹈或协作比赛中荣获特等奖](https://github.com/NJURobotClub/NJURobotClub.github.io/blob/master/assets/img/award/2021.2.png)<br>
+           [2022第十五届中国大学生计算机设计大赛中荣获一等奖](https://github.com/NJURobotClub/NJURobotClub.github.io/blob/master/assets/img/award/2022.1.png)<br>
+           "
     section: about
    
     
@@ -165,16 +173,14 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      #- url: https://twitter.com
+      #  icon: "fab fa-twitter"
+      #- url: https://facebook.com
+      #  icon: "fab fa-facebook-f"
+      
+      - url: https://github.com/NJURobotClub
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+      
 en-US:
   <<: *DEFAULT_EN
 en-CA:
