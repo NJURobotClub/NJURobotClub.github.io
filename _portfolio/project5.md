@@ -1,18 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/05-full.jpg
-alt: 
+title: 机器学习小组
+subtitle: 走进机器学习的玄幻世界
+image: assets/img/project/ML.jpg
+alt: Shirts on a hanger
 
 caption:
-  title: Southwest
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  title: 机器学习小组
+  subtitle: 走进机器学习的玄幻世界
+  thumbnail: assets/img/project/ML1.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+或许你曾听说机器学习，深度学习，强化学习，作为21世纪的热门领域之一，人工智能无疑改变了我们的生活。            
+但在嵌入式领域，机器学习可以给人类带来更实用的福祉。          
+在机器人社团的机器学习小组，你可以从最基础的机器学习学起，也可以和组员组队参加比赛或大创项目，向更前沿的机器学习算法探索，应用于物联网世界中。         
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
-
+- Date: 2022/11/19
+- Category: 机器学习小组

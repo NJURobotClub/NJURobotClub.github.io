@@ -1,18 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
-alt: 
+title: CV小组
+subtitle: 在各类比赛与创新创业项目中均有其身影
+image: assets/img/project/CV.jpg
+alt: Shirts on a hanger
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: CV小组
+  subtitle: 在各类比赛与创新创业项目中均有其身影
+  thumbnail: assets/img/project/CV2.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+CV是computer vision计算机视觉的简称。            
+计算机视觉的魅力在于无论哪类机器人方向，都会有其美妙的算法应用的场景，比如场景检测，目标识别等。             
+不论是经典的CV算法，还是现代与ML、DL结合的目标检测，都可以使得机器人获得一双慧眼，让它的每一个动作变得精确可控。           
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Date: 2022/11/19
+- Category: 计算机视觉
 

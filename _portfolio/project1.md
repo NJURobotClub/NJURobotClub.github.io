@@ -1,18 +1,20 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
+title: arduino小组
+subtitle: 主要负责新社员的arduino基本知识培训，以及后续比赛入门
+image: assets/img/project/arduino.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: arduino小组
+  subtitle: 主要负责新社员的arduino基本知识培训，以及后续比赛入门
+  thumbnail: assets/img/project/arduinos.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+作为南京大学机器人协会最初的研学中心，arduino具有入门简单，扩展性强等特点。          
+arduino小组主要负责新社员的arduino基本知识培训，包括程序编写，超声波舵机等硬件使用等教学内容。            
+以及后续比赛入门，比如中国教育机器人大赛等。             
+[教学电子书](https://nju-robot-club.gitbook.io/arduino/)           
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: 2022/11/19
+- Category: arduino
 
