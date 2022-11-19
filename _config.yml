@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://NJURobotClub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : NJU Robot Club
+title      : NJU Robotics Club
 email      : 2604317843xwj@gmail #this is also the email contact forms will go to
 description: "南京大学机器人协会专注于arduino，ROS以及人工智能等方面的学习研究"
 author     : 徐文江
