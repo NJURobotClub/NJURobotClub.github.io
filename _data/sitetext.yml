@@ -120,45 +120,32 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "周哲昊"
-        role: "现任社长"
+        role: "现任社长，ROS小组组长"
         image: assets/img/team/1.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          #- url: https://twitter.com
+          #  icon: fab fa-twitter
+          #- url: https://facebook.com
+          #  icon: fab fa-facebook-f
+          #- url: https://linkedin.com
+          #  icon: fab fa-linkedin-in
       - name: "徐文江"
-        role: "团支书"
+        role: "团支书，硬件开发及cv小组组长"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://hea1or.github.io/welcome.html
+            icon: fab fa-github
+          
       - name: "李刚"
-        role: "宣传委员"
+        role: "宣传委员，arduino小组组长"
         image: assets/img/team/3.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+         
       - name: "洪东海"
-        role: "组织委员"
+        role: "组织委员，机器学习小组组长"
         image: assets/img/team/4.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          
 
   contact:
     title: "联系我们"
