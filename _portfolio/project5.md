@@ -1,13 +1,13 @@
 ---
 title: 机器学习小组
 subtitle: 走进机器学习的玄幻世界
-image: assets/img/project/ML.jpg
+image: assets/img/project/ML1.jpg
 alt: Shirts on a hanger
 
 caption:
   title: 机器学习小组
   subtitle: 走进机器学习的玄幻世界
-  thumbnail: assets/img/project/ML1.jpg
+  thumbnail: assets/img/project/ML.jpg
 ---
 
 或许你曾听说机器学习，深度学习，强化学习，作为21世纪的热门领域之一，人工智能无疑改变了我们的生活。            
