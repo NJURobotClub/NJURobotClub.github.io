@@ -1,7 +1,7 @@
 ---
 title: ROS小组
 subtitle: 依托大创项目及相关比赛进行小组研学
-image: assets/img/project/ROS.png
+image: assets/img/project/ROS1.jpg
 alt: Shirts on a hanger
 
 caption:
