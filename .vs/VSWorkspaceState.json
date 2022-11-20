@@ -3,10 +3,11 @@
     "",
     "\\assets",
     "\\assets\\img",
-    "\\assets\\img\\timeline",
+    "\\assets\\img\\award",
+    "\\assets\\img\\team",
     "\\_data",
     "\\_portfolio"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\assets\\img\\award\\2018.2.png",
   "PreviewInSolutionExplorer": false
 }
