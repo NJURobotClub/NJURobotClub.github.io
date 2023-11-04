@@ -136,19 +136,59 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "贾思涵"
-        role: "第七届社长"
+        role: "第七届社长，2021级自动化系本科生"
         image: assets/img/team/1.jpg
         social:
-          #- url: https://twitter.com
-          #  icon: fab fa-twitter
-          #- url: https://facebook.com
-          #  icon: fab fa-facebook-f
-          #- url: https://linkedin.com
-          #  icon: fab fa-linkedin-in
-      - name: "周哲昊"
-        role: "第六届社长"
+      - name: "裴太彬"
+        role: "2021级自动化系本科生"
+        image: assets/img/team/1.jpg
+        social:
+      - name: "任佳伟"
+        role: "2021级自动化系本科生"
+        image: assets/img/team/1.jpg
+        social:
+      - name: "武嘉文"
+        role: "2021级硕士生"
+        image: assets/img/team/1.jpg
+        social:  
+      - name: "喻车澄"
+        role: "2021级自动化系本科生"
+        image: assets/img/team/1.jpg
+        social:
+      - name: "曾可涵"
+        role: "2021级自动化系本科生"
         image: assets/img/team/1.png
         social:
+      - name: "井子见"
+        role: "2021级自动化系本科生"
+        image: assets/img/team/1.jpg
+        social:
+
+      - name: "徐昊阳"
+        role: "2022级自动化系本科生"
+        image: assets/img/team/1.jpg
+        social:  
+      - name: "杨童越"
+        role: "2022级自动化系本科生"
+        image: assets/img/team/1.jpg
+        social:  
+      - name: "冯亚冰"
+        role: "2022级电子系本科生"
+        image: assets/img/team/1.png
+        social:
+      - name: "徐硕"
+        role: "2022级工智班本科生"
+        image: assets/img/team/1.png
+        social:
+      - name: "赵华阳"
+        role: "2022级工智班本科生"
+        image: assets/img/team/1.png
+        social:
+      - name: "王凡"
+        role: "2022级工智班本科生"
+        image: assets/img/team/1.png
+        social:
+
           #- url: https://twitter.com
           #  icon: fab fa-twitter
           #- url: https://facebook.com
@@ -156,18 +196,18 @@ en: &DEFAULT_EN
           #- url: https://linkedin.com
           #  icon: fab fa-linkedin-in
       - name: "徐文江"
-        role: "第六届团支书"
+        role: "第六届团支书，2020级自动化系本科生"
         image: assets/img/team/2.jpg
         social:
           - url: https://hea1or.github.io/welcome.html
             icon: fab fa-github
           
       - name: "李刚"
-        role: "第六届宣传委员"
+        role: "第六届宣传委员，2020级自动化系本科生"
         image: assets/img/team/3.jpg
         social:
          
-      - name: "洪东海"
+      - name: "洪东海，2020级自动化系本科生"
         role: "第六届组织委员"
         image: assets/img/team/4.jpeg
         social:
