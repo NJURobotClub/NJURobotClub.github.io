@@ -147,7 +147,7 @@ en: &DEFAULT_EN
           #  icon: fab fa-linkedin-in
       - name: "周哲昊"
         role: "第六届社长"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/1.png
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
