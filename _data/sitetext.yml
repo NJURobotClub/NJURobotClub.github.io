@@ -147,10 +147,10 @@ en: &DEFAULT_EN
         role: "第七届社长，2021级自动化系本科生"
         image: assets/img/team/1.jpg
         social:
-        
+
       - name: "周哲昊"
         role: "第六届社长，2020级自动化系本科生"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/1.png
         social:
         
       - name: "徐文江"
@@ -165,8 +165,8 @@ en: &DEFAULT_EN
         image: assets/img/team/3.jpg
         social:
          
-      - name: "洪东海，2020级自动化系本科生"
-        role: "第六届组织委员"
+      - name: "洪东海"
+        role: "第六届组织委员，2020级自动化系本科生"
         image: assets/img/team/4.jpeg
         social:
 
